@@ -7,6 +7,7 @@ It pulls data from the `Open Food Facts database <https://world.openfoodfacts.or
 and offers a *simple* and *intuitive* API.
 
 **Latex** 
+
 $$\alpha$$
 
 \(\alpha\)
